@@ -1,2 +1,2 @@
-# Notes_Blender
-学习Blender的笔记
+# Initial page
+
